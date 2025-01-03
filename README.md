@@ -1,4 +1,7 @@
 # Hi there, I'm Robert Bui 👋
+## 📈 GitHub Stats
+
+![Robbierayrob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robbierayrob&show_icons=true&theme=radical)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -22,8 +25,6 @@ I'm a passionate developer currently studying at UNSW, with a keen interest in a
 - Cloud: AWS, Azure, GCP
 - Others: Git, GitHub, VS Code, Linux
 
-## 📈 GitHub Stats
 
-![Robbierayrob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robbierayrob&show_icons=true&theme=radical)
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
