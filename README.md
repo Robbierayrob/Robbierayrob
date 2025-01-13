@@ -47,10 +47,6 @@ I'm a passionate developer studying at UNSW, with a keen interest in app develop
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📫 Let's Connect!
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/YourLinkedInProfile)
-- 🐦 Follow me on [Twitter](https://twitter.com/YourTwitterHandle)
-- 📧 Email me at: your.email@example.com
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects. 
 
