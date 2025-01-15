@@ -9,6 +9,7 @@ I'm a passionate developer studying at UNSW, with a keen interest in app develop
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Robbierayrob&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robbierayrob&theme=radical&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true" alt="GitHub Streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Robbierayrob&theme=redical&hide_border=true&area=true&point=transparent&custom_title=Contribution%20Timeline" alt="Contribution Timeline" />
 </div>
 
 ## 🐾 Git Animals
