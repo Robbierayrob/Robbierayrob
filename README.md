@@ -7,8 +7,8 @@ I'm a passionate developer studying at UNSW, with a keen interest in app develop
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robbierayrob&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robbierayrob&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robbierayrob&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robbierayrob&theme=radical&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true" alt="GitHub Streak" />
 </div>
 
 ## 🐾 Git Animals
