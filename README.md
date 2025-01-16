@@ -12,13 +12,7 @@ I'm a passionate developer studying at UNSW, with a keen interest in app develop
 </div>
 
 ## 🐾 Git Animals
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Robbierayrob?pet-id=662901091494763224"
-    width="800"
-    height="220"
-  />
-</a>
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Robbierayrob&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Robbierayrob"
