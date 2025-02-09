@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Robbierayrob&color=blueviolet)](https://github.com/Robbierayrob)
 
-I'm a passionate developer studying at UNSW, with a keen interest in app development, AI technologies, and 3D modeling software. I love learning new technologies and sharing knowledge with the community.
+I'm a passionate developer, with a keen interest in app development, AI technologies, and 3D modeling software. I love learning new technologies and sharing knowledge with the community.
 
 ## 📊 GitHub Stats
 
